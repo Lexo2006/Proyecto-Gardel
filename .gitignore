@@ -1,0 +1,16 @@
+# Entorno virtual
+env/
+env_spleeter/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Archivos pesados
+*.wav
+*.mp3
+*.pkl
+*.pt
+
+# Otros directorios generados
+output/
