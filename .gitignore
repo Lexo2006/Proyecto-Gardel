@@ -1,6 +1,7 @@
 # Entorno virtual
 env/
-env_spleeter/
+venv_spleeter/
+venv_magenta/
 
 # Archivos temporales
 __pycache__/
