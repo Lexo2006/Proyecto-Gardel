@@ -1,6 +1,3 @@
-from spleeter.separator import Separator
-import os
-
 def separar_audio():
     print("Separando audio, esto puede tardar un poco...")
 
